@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 📫 How to reach me **abdullah.mail365@gmail.com**
+- 📫 How to reach me **dropforabdullah@gmail.com**
 
 - ⚡ Fun fact **I'm Extrovert**
 
