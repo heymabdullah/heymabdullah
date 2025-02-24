@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A passionate Python Developer</h3>
+<h3 align="center">A passionate Generative AI Developer</h3>
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **Generative AI**
 
 - 📫 How to reach me **dropforabdullah@gmail.com**
 
